@@ -1,0 +1,156 @@
+* {
+  padding: 0;
+  margin: 0;
+  border: none;
+  background: none;
+  box-sizing: border-box;
+}
+body {
+  background: #febb41;
+}
+.wrapper {
+  width: 1511px;
+  height: 886px;
+  border-radius: 24px;
+  background: linear-gradient(304.58deg, #f4ece1 57.1%, #fcfbf7 145.5%);
+  display: block;
+  margin: 100px auto;
+  padding: 48px 87px;
+}
+.logo_button {
+  font-family: Poppins;
+  font-weight: 600;
+  font-size: 32px;
+  line-height: 140%;
+  color: #000;
+}
+
+.nav {
+  display: inline-block;
+  margin-left: 250px;
+}
+
+.nav_item {
+  display: inline-block;
+  color: #000;
+  font-family: Poppins;
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 94.8%; /* 20.856px */
+  cursor: pointer;
+  margin-left: 56px;
+}
+
+button {
+  border: none;
+  background: none;
+}
+
+.search_input {
+  font-family: Poppins;
+  font-size: 22px;
+  font-weight: 400;
+  line-height: 20.86px;
+  text-align: left;
+  width: 314px;
+  height: 60px;
+  top: 39px;
+  left: 1132px;
+  gap: 0px;
+  border-radius: 30px 30px 30px 30px;
+  opacity: 0px;
+  padding-left: 30px;
+  margin-left: 95px;
+}
+
+.info {
+  height: 712px;
+}
+
+.info_left {
+  width: 600px;
+  margin-top: 150px;
+  display: inline-block;
+  vertical-align: top;
+}
+.info_header_Fast {
+  font-family: Poppins;
+  font-size: 125px;
+  font-weight: 700;
+  line-height: 95%;
+  color: #ff7e00;
+  display: inline-block;
+}
+
+.info_header_Food {
+  font-family: Poppins;
+  width: 80px;
+  font-size: 52px;
+  font-weight: 700;
+  line-height: 95%;
+  color: #2f2f2f;
+  display: inline-block;
+}
+
+.info_text {
+  font-family: Poppins;
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 139%;
+  color: #909090;
+  margin-top: 24px;
+}
+.info_right {
+  display: inline-block;
+  width: 550px;
+}
+
+.order {
+  margin-top: 44px;
+}
+.order_btn {
+  background-color: #2f2f2f;
+  color: #f4ece1;
+  padding: 26px 40px;
+  border-radius: 84px;
+  font-family: Poppins;
+  font-weight: 600;
+  line-height: 95%;
+  font-size: 20px;
+  display: inline-block;
+}
+.watch_btn {
+  width: 57px;
+  height: 57px;
+  background-color: white;
+  border-radius: 50%;
+  display: inline-block;
+  margin-left: 28px;
+}
+.watch_text {
+  font-family: Poppins;
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 18.96px;
+  text-align: left;
+  display: inline-block;
+  margin-left: 11px;
+}
+
+.rating_range {
+  font-family: Poppins;
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 25.16px;
+  text-align: left;
+}
+
+.rating_review {
+  font-family: Poppins;
+  font-size: 18px;
+  font-weight: 300;
+  line-height: 25.16px;
+  text-align: left;
+  color: #909090;
+}
